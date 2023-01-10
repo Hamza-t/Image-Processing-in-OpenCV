@@ -8,7 +8,7 @@ This repository contains 3 different labs about image processing.Each lab introd
 
 * [Python](https://www.python.org/).
 * [Colab](https://colab.research.google.com/).
-* [Opencv](https://opencv.org/).
+* [OpenCV](https://opencv.org/).
 
 
 
@@ -19,9 +19,11 @@ This repository contains 3 different labs about image processing.Each lab introd
 
 ## Content
  
-### Lab1 :  Single layer perceptron
+### Lab1 :  Getting Starting with OpenCV
 
-### Lab2 :  Recurrent Neural Networks
+### Lab2 :  Image Processing in OpenCV
+
+### Lab3 :  Image Thresholding
 
 
 
